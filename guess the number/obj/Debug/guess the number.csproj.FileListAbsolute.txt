@@ -1,0 +1,16 @@
+Z:\я у мамы програмист\guess the number\guess the number\bin\Debug\guess the number.exe.config
+Z:\я у мамы програмист\guess the number\guess the number\bin\Debug\guess the number.exe
+Z:\я у мамы програмист\guess the number\guess the number\bin\Debug\guess the number.pdb
+Z:\я у мамы програмист\guess the number\guess the number\obj\Debug\guess the number.csproj.AssemblyReference.cache
+Z:\я у мамы програмист\guess the number\guess the number\obj\Debug\guess the number.csproj.SuggestedBindingRedirects.cache
+Z:\я у мамы програмист\guess the number\guess the number\obj\Debug\guess the number.csproj.CoreCompileInputs.cache
+Z:\я у мамы програмист\guess the number\guess the number\obj\Debug\guess the number.exe
+Z:\я у мамы програмист\guess the number\guess the number\obj\Debug\guess the number.pdb
+Z:\я у мамы програмист\git\guess_the_number\guess the number\bin\Debug\guess the number.exe.config
+Z:\я у мамы програмист\git\guess_the_number\guess the number\bin\Debug\guess the number.exe
+Z:\я у мамы програмист\git\guess_the_number\guess the number\bin\Debug\guess the number.pdb
+Z:\я у мамы програмист\git\guess_the_number\guess the number\obj\Debug\guess the number.csproj.AssemblyReference.cache
+Z:\я у мамы програмист\git\guess_the_number\guess the number\obj\Debug\guess the number.csproj.SuggestedBindingRedirects.cache
+Z:\я у мамы програмист\git\guess_the_number\guess the number\obj\Debug\guess the number.csproj.CoreCompileInputs.cache
+Z:\я у мамы програмист\git\guess_the_number\guess the number\obj\Debug\guess the number.exe
+Z:\я у мамы програмист\git\guess_the_number\guess the number\obj\Debug\guess the number.pdb
